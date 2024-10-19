@@ -1,2 +1,2 @@
 # WinEventLogParser
-Windows Event Log parser that reads a Windows Event Log such as Security and returns desired output to a CSV
+Windows Artifact parser that so far parses login types from the Security event log and prefetch for signs of execution
